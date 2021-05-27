@@ -12,13 +12,13 @@ Foi escrito um arquivo HTML de página única simulando um site de arquitetura. 
 
 <h3>Web</h3>
 <div align="center">
-    <img alt="web1" title="#web1" src="/web1.PNG" width="50%">
-    <img alt="web1" title="#web1" src="/web2.PNG" width="50%">
+    <img alt="web" title="#web" src="/web.PNG" width="50%">
+    <img alt="web1" title="#web1" src="/web1.PNG" width="41%">
 </div>
 
 <h3>Mobile</h3>
 <div align="center">
-    <img alt="architect-mobile" title="#arcthitect-mobile" src="/mobile.PNG">
+    <img alt="architect-mobile" title="#arcthitect-mobile" src="/mobile.PNG" width="45%">
 </div>
 
 ---
